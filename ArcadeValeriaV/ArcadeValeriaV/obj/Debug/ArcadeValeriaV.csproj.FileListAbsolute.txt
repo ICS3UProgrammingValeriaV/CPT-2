@@ -1,0 +1,9 @@
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Veverita, Valeria (s449619)\CPT\ArcadeValeriaV\ArcadeValeriaV\bin\Debug\ArcadeValeriaV.exe.config
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Veverita, Valeria (s449619)\CPT\ArcadeValeriaV\ArcadeValeriaV\bin\Debug\ArcadeValeriaV.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Veverita, Valeria (s449619)\CPT\ArcadeValeriaV\ArcadeValeriaV\bin\Debug\ArcadeValeriaV.pdb
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Veverita, Valeria (s449619)\CPT\ArcadeValeriaV\ArcadeValeriaV\obj\Debug\ArcadeValeriaV.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Veverita, Valeria (s449619)\CPT\ArcadeValeriaV\ArcadeValeriaV\obj\Debug\ArcadeValeriaV.frmSplashScreen.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Veverita, Valeria (s449619)\CPT\ArcadeValeriaV\ArcadeValeriaV\obj\Debug\ArcadeValeriaV.Properties.Resources.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Veverita, Valeria (s449619)\CPT\ArcadeValeriaV\ArcadeValeriaV\obj\Debug\ArcadeValeriaV.csproj.GenerateResource.Cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Veverita, Valeria (s449619)\CPT\ArcadeValeriaV\ArcadeValeriaV\obj\Debug\ArcadeValeriaV.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Veverita, Valeria (s449619)\CPT\ArcadeValeriaV\ArcadeValeriaV\obj\Debug\ArcadeValeriaV.pdb
